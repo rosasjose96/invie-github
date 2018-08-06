@@ -2,7 +2,7 @@
 
 ¿Qué a cambiado?
 
--[ ] Front-end
+-[X] Front-end
 -[ ] Back-end
 -[ ] Configuración del server
 
